@@ -1,5 +1,11 @@
 # @serverless-stack/cli2
 
+## 2.38.8
+
+### Patch Changes
+
+- [#3545](https://github.com/sst/sst/pull/3545) [`366ffedaa`](https://github.com/sst/sst/commit/366ffedaaa06aab93a032274a34bc87a24ce94c9) Thanks [@coronapl](https://github.com/coronapl)! - IoT: Fix connection closed after 5 minutes
+
 ## 2.38.7
 
 ### Patch Changes
